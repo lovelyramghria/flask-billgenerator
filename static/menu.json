@@ -1,0 +1,108 @@
+{
+  "categories": {
+    "MOMOS": {
+      "Veg Steam Momos": {"half": 50, "full": 80},
+      "Paneer Steam Momos": {"half": 60, "full": 100},
+      "Paneer Malai Momos": {"half": 80, "full": 150},
+      "Veg Kurkure Momos": {"half": 60, "full": 100},
+      "Paneer Kurkure Momos": {"half": 70, "full": 110},
+      "Veg Malai Momos": {"half": 60, "full": 100}
+    },
+    "SANDWICH": {
+      "Cold Sandwich": 50,
+      "Mix Veg Sandwich": 79,
+      "Sweet Corn Sandwich": 89,
+      "Paneer Sandwich": 119
+    },
+    "PASTA": {
+      "White Sauce Pasta": 119,
+      "Red Sauce Pasta": 119,
+      "Mix Pasta": 129
+    },
+    "WRAPS": {
+      "Veg Wrap": 89,
+      "Peri Peri Paneer Wrap": 149,
+      "Aloo Tikki Wrap": 99,
+      "Paneer Wrap": 129
+    },
+    "SOUP": {
+      "Tomato Soup": 60,
+      "Channa Soup": 60,
+      "Veg Manchow Soup": 60,
+      "Veg Soup": 60
+    },
+    "SHAKES": {
+      "Hot Coffee": 39,
+      "Cold Coffee": 79,
+      "Butter Scotch Shake": 69,
+      "Chocolate Shake": 99,
+      "Mango Shake": 69,
+      "Kit Kat Shake": 89,
+      "Strawberry Shake": 69,
+      "Oreo Shake": 89
+    },
+    "FRIES": {
+      "Salted Fries": 59,
+      "Cheesy Fries": 89,
+      "Masala Fries": 69,
+      "Peri Peri Cheesy Fries": 99,
+      "Peri Peri Fries": 79,
+      "Paneer Finger": 149
+    },
+    "DRINKS": {
+      "Fresh Line Soda": 49,
+      "Blue Berry Mojito": 69,
+      "Virgin Mojito": 69,
+      "Watermelon Mojito": 69,
+      "Green Mojito": 69,
+      "Mint Mojito": 69,
+      "Kala Khatta": 69
+    },
+    "BURGER": {
+      "Aloo Tikki Burger": 49,
+      "Tandoori Veg Burger": 69,
+      "Paneer Crispy Burger": 79,
+      "Paneer Cheese Burger": 99,
+      "Double Decker Burger": 109,
+      "Veg Burger": 59
+      
+    },
+    "SPRING ROLL": {
+      "Veg Crunchy": {"half": 50, "full": 100},
+      "Cheese Corn": {"half": 50, "full": 100},
+      "Mushroom Masala": {"half": 50, "full": 100},
+      "Malai Chaap Roll": {"half": 50, "full": 100},
+      "Salsa Malai Roll": {"half": 50, "full": 100},
+      "Paneer Cheese": {"half": 50, "full": 100},
+      "Cheese Corn Ball": 119,
+      "Mushroom Duplex": 149,
+      "Cigar Roll": 149
+    },
+    "SALAD": {
+      "Peanut Salad": 100,
+      "Sotte Veg Salad": 150,
+      "Fresh Paneer Salad": 160,
+      "Veg Salad": 110
+    },
+    "FRIED RICE": {
+      "Veg Fried Rice": {"half": 60, "full": 100},
+      "Schezwan Fried Rice": {"half": 70, "full": 120},
+      "Mushroom Fried Rice": {"half": 80, "full": 140},
+      "Paneer Fried Rice": {"half": 90, "full": 150},
+      "Garlic Fried Rice": {"half": 70, "full": 120}
+    },
+    "SNACKS": {
+      "Crispy Corn": 109,
+      "Honey Chilli Potato": {"half": 90, "full": 160},
+      "Manchurian Gravy": {"half": 80, "full": 150},
+      "Honey Chilli Cauliflower": {"half": 90, "full": 160},
+      "Chilli Paneer Gravy": {"half": 120, "full": 180},
+      "Chilli Potato": {"half": 80, "full": 150},
+      "Chilli Mushroom":{"half": 80, "full": 160},
+      "Chilli Paneer Dry": {"half": 129, "full": 180},
+      "Manchurian Dry": {"half": 80, "full": 150},
+      "Chilli Cauliflower": {"half": 80, "full": 150}
+
+    }
+  }
+}
